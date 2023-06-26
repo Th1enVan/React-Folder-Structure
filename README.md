@@ -1,4 +1,4 @@
-# Cấu trúc thư mục React tối ưu
+# Optimized React structure folder
 
 ## Login
 
